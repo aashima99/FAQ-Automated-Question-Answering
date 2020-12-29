@@ -1,0 +1,127 @@
+﻿FAQ Questions,FAQ Answers 
+What does the job hunting experience look like ?," Job hunting experience involves networking to get in touch with the right people in various companies, applying to lots of jobs through various channels, preparing for interviews – while interviews are uncertain it is necessary to prepare well what you CAN prepare, smart scheduling of interviews to get the best job and salary you can. "
+What are the most valuable skills for a data scientist?,"Data Science is now being integrated with industries across all sectors. That’s why not only are the data scientists expected to have a broader set of skills, but the employers also expect more cohesive specialisation and collaboration. The following skills were crucial for a data scientist’s role:
+• Thorough knowledge of Python, as 44% of the professionals use it the most
+• Knowledge of Tableau, as 51%, of the data scientists use it
+• RStudio as an IDE
+• And in-depth knowledge of Hadoop
+"
+What is the average salary of a data scientist?,"A report by AIM had found out that the average salary for a data scientist in India is ₹12.7 lakh per annum in 2018. However, this trend has levelled off with the average analytics salary capped at ₹12.6 lakh per annum across all experience levels in 2019. In fact, Data Analytics professionals are currently benefitting from the big data wave with analytics professionals earning 26% higher than an average software engineer in India."
+What are the top algorithms that every data scientist should have in his/her toolbox?,"It is very crucial for the machine learning enthusiasts to know and understands the basic and important machine learning algorithms in order to keep themselves up-to-date with the current trends. For example, the top five most popular algorithms that all data scientists should know are:
+
+Logistic Regression
+K-Nearest Neighbours
+Naive Bayes
+Support Vector Machines
+Random Forest
+It is very crucial for the machine learning enthusiasts to know and understands the basic and important machine learning algorithms in order to keep themselves up-to-date with the current trends. For example, the top five most popular algorithms that all data scientists should know are:
+
+Logistic Regression
+K-Nearest Neighbours
+Naive Bayes
+Support Vector Machines
+Random Forest"
+How to prepare for a data science interview?,"Cracking any interview requires preparation and in the case of data science it is not restricted to performing well on the big day alone. An aspiring data scientist is expected to prepare across multiple fronts like:
+
+Build a portfolio of projects and MOOCs
+Network with peers and stay up-to-date with who’s who, follow trends
+Learn about the position that you are applying for
+Go through questions asked in previous interviews"
+Any insights you can offer about the DS job market ? ,"There are many kinds of roles, data scientist, analyst, data engineer and so on. There are many levels of companies. In smaller companies the roles are usually combined into one while in larger companies there are more nuanced roles. 
+
+Since more and more companies are just getting started on their data journey, the overall demand is expected to increase in the next few years."
+Do employers look for an advanced ML degree? ,"For more senior roles: People typically look for practical experience for several years or a specialized degree with some experience. Employers typically want folks who have seen various kinds of ML problems and solved them, who can come up with the right solution for a new problem when they are looking for a more senior role.
+
+For a beginner role: a degree usually adds some level of credibility, but if one has a good portfolio with good projects, it is usually an accepted substitute. Employers do hope to see if the candidate is comfortable with basic concepts in ML along with being able to write code. "
+How does a typical day of a data scientist look like?,"Here are some tasks in the typical day of a data scientist:
+
+Make a plan for the day 
+Look at data, what clean up is required, figure out what models can be built
+Talk to various stakeholders about what modeling is possible and help them narrow down to something useful for the business
+Build models, test and debug (takes a long time)
+Parameter tuning – test tons and tons of parameters (takes a long time)
+Come up with prod architecture to get deployment ready
+Write ML pipeline for production ready modeles – deploy them
+Wait for long time till we have a significant sample to see if they are working
+Analyze and see whether the models are working as expected, have any impact
+Come up with improvements/ corrections based on prod feedback and prepare for next iteration.
+Meeting with team members / daily sprints / bug triages based on production feedback – Interaction with ML Manager, Product Manager, Developers, Data engineers"
+Do I need to prepare algorithms and data structures for a data science interview ? ,"Coding round and an algorithms round. So preparing algorithms and data structures is necessary. Some of the Analyst interviews, such as a data analyst and a business analyst might not have an algorithms and data structures round. "
+What are the benefits of a Data Science certification?,"There are definitely some advantages that come along with a data science certification, it reflects your interest in the field of data science but there’s a caveat – due to the boom of data science, there has been a massive uptake of these courses which makes them common or general. So what can you do in this situation?
+
+If you are to take up free certification courses provided by multiple MOOC websites, it will definitely reflect your interest in this field but it won’t help you stand out. To stand apart from the crowd, you will need to take up a course that provides you with industry exposure and high-quality projects. A certification that is taken up as a standard to measure great talent."
+Should I participate in hackathons? Will that help me in getting a job?,"Data Science competitions provide an amazing opportunity and platform to showcase the skillset that you have developed over a brief period. It helps you understand the domain, the techniques, the flow of a machine learning project and gives a good sense of direction.
+
+A majority of recruiters give keen attention to past hackathon performances. So if you haven’t started participating now is the time. Don’t worry if you have a fear of hackathon submission, it can be overwhelming sometimes. You can check out HackLive – a guided community hackathon through which you can master the art of participating in a hackathon."
+Do I need to know statistics in order to land a data science role?," Yes you need to know statistics in order to land a data science job. But don’t be afraid. You are not required to go through a master’s course in statistics. There a couple of topics/concepts that you must have commands on and you are good to go –
+
+Descriptive Statistics (mean, median, mode, variance, standard deviation)
+Inferential Statistics (hypothesis testing,  z test, t-test, significance level, p-value)
+Statistical analysis (linear regression, forecasting, logistic regression)"
+What are the career opportunities in Data Science?,"Data Science would not be known as the “Sexiest Job of the 21st century” if it didn’t provide luring opportunities. It is a $38 billion market and it is expected to reach $140 billion by 2025. It is really exciting to be a data scientist in this decade.
+
+There are ample job opportunities in the world of data-based roles. You can become a business analyst, data analyst or even the advanced role of machine learning engineer or deep learning engineer are available. A Data Scientist’s strengths lie in coding, mathematics, and research abilities and require continuous learning. Once you have become a data scientist you can expect to follow this general path and grow into this field which will lead you to become a data science leader. Once you have the industry knowledge and experience you can expect to delve into product roles or even end up becoming an entrepreneur. "
+What are the Most Common Mistakes Data Science enthusiasts make in an Interview?,"Let’s discuss the most common mistakes made by data science enthusiasts one-by-one:
+
+Preparing only theoretical topics without applying them
+Let’s say that you are in the middle of a data science interview and the interviewer asks you – What is random forest and how does it work? Being a simple and standard question you answer the question smoothly. Then the follow-up zinger comes – How would you improve the performance of the model in the context of the business?
+Now, unless you have solved a data science problem previously using random forest and tuned its hyperparameters, you won’t be able to give a proper answer which can lead to doubt in the mind of the interviewer.
+
+Assuming what you see in ML Competitions is what Real-Life Jobs are like
+There’s no better to prepare for a data science role than participating in machine learning competitions. This is undeniable. The problem is it doesn’t make you an industry-ready professional. Usually, the interviews include case studies that test your problem-solving skills and domain knowledge and these are usually gained with experience.
+
+Using too many Data Science Terms
+Your resume is a profile of what you have accomplished and how you did it – not a list of things to simply jot down. When a recruiter looks at your resume, he/she wants to understand your background and what all you have accomplished in a neat and summarized manner. If half the page is filled with vague data science terms like linear regression, XGBoost, LightGBM, without any explanation, your resume might not clear the screening round.
+
+Not working on Communication Skills 
+Communications skills are one of the most underrated and least talked about aspects a data scientist absolutely MUST possess. You can learn all the latest techniques, master multiple tools, and make the best graphs, but if you cannot explain your analysis to your client, you will fail as a data scientist. This is what the interviewer will be testing in the interview process."
+What’s the impact of Covid on hiring for DS roles?,"Hiring is going to slow down. First in small companies then eventually in enterprises  in a couple of months. But it is likely to pick up in a few months. Hence, if you are looking to transition, this is a good time to ramp up skills and learn new things that might usually take some time. "
+What skills and qualities do employers look for in a data scientist?,"The following are some skills employers usually look for:
+
+Should be good at coding
+Should have good problem solving and analysis skills
+Should be good with stats and building testing and deploying models. 
+A data scientist is a software developer ++ with stats and modeling skills to build and deploy models and make inferences from data. "
+How proficient should a data scientist be in coding?,"Needs to be reasonably proficient. Again, a data scientist is a developer ++. Usually expected to have the basic skills a developer has including understanding algorithms and data structures and being able to write clean, understable, efficient, well documented code. 
+
+In many cases, the data scientist is expected to write production ready code and be able to understand the deployment process. In some cases, the coding could be for decision support."
+What are the various rounds in a data scientist interview ? ,"Usually the data science interview has a subset of these rounds. 
+
+Resume deep dive
+ML Concepts
+ML Scenario and Problem solving
+Algorithms and data structures
+Coding
+Behavioural
+Sometimes, some of these rounds might be combined, for instance there might not be two separate rounds for coding and algorithms. Similarly there might be a single round for ML concepts and scenario based problem solving.
+
+Usually the data science interview has a subset of these rounds. 
+
+Resume deep dive
+ML Concepts
+ML Scenario and Problem solving
+Algorithms and data structures
+Coding
+Behavioural
+Sometimes, some of these rounds might be combined, for instance there might not be two separate rounds for coding and algorithms. Similarly there might be a single round for ML concepts and scenario based problem solving.
+
+Usually the data science interview has a subset of these rounds. 
+
+Resume deep dive
+ML Concepts
+ML Scenario and Problem solving
+Algorithms and data structures
+Coding
+Behavioural
+Sometimes, some of these rounds might be combined, for instance there might not be two separate rounds for coding and algorithms. Similarly there might be a single round for ML concepts and scenario based problem solving.
+
+Usually the data science interview has a subset of these rounds. 
+
+Resume deep dive
+ML Concepts
+ML Scenario and Problem solving
+Algorithms and data structures
+Coding
+Behavioural
+Sometimes, some of these rounds might be combined, for instance there might not be two separate rounds for coding and algorithms. Similarly there might be a single round for ML concepts and scenario based problem solving."
+What is the mathematical background required for a data scientist ?,"The following three are the basic building blocks in terms of data science math background: Linear Algebra, Probability and Statistics and Calculus and optimization."
